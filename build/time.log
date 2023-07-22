@@ -1,0 +1,463 @@
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 01:47:45 +0800
+Command exited with non-zero status 1
+0.05user 0.00system 0:00.05elapsed 96%CPU (0avgtext+0avgdata 14180maxresident)k
+0inputs+0outputs (0major+4441minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 01:48:01 +0800
+Command exited with non-zero status 1
+0.05user 0.00system 0:00.06elapsed 93%CPU (0avgtext+0avgdata 14276maxresident)k
+0inputs+0outputs (0major+4441minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 01:48:10 +0800
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.07elapsed 92%CPU (0avgtext+0avgdata 17212maxresident)k
+0inputs+0outputs (0major+5015minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 01:59:38 +0800
+Command exited with non-zero status 1
+0.09user 0.01system 0:00.11elapsed 91%CPU (0avgtext+0avgdata 19912maxresident)k
+0inputs+744outputs (0major+5563minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 01:59:54 +0800
+4.32user 1.17system 0:05.69elapsed 96%CPU (0avgtext+0avgdata 128576maxresident)k
+3720inputs+2624outputs (16major+278168minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 02:05:30 +0800
+0.01user 0.00system 0:00.01elapsed 94%CPU (0avgtext+0avgdata 3316maxresident)k
+0inputs+0outputs (0major+229minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 02:05:35 +0800
+0.01user 0.00system 0:00.01elapsed 94%CPU (0avgtext+0avgdata 3308maxresident)k
+0inputs+0outputs (0major+230minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 02:05:43 +0800
+0.08user 0.01system 0:00.11elapsed 90%CPU (0avgtext+0avgdata 19868maxresident)k
+0inputs+776outputs (0major+5558minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 02:05:43 +0800
+2.18user 0.78system 0:03.09elapsed 95%CPU (0avgtext+0avgdata 128488maxresident)k
+224inputs+2464outputs (0major+186434minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 02:10:44 +0800
+0.06user 0.01system 0:00.09elapsed 94%CPU (0avgtext+0avgdata 19836maxresident)k
+0inputs+776outputs (0major+5551minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 02:10:44 +0800
+1.90user 0.71system 0:02.70elapsed 96%CPU (0avgtext+0avgdata 128588maxresident)k
+224inputs+2424outputs (0major+168028minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 02:14:19 +0800
+0.08user 0.01system 0:00.11elapsed 93%CPU (0avgtext+0avgdata 19760maxresident)k
+8inputs+784outputs (1major+5538minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 02:14:20 +0800
+4.53user 0.82system 0:05.46elapsed 98%CPU (0avgtext+0avgdata 128536maxresident)k
+152inputs+1600outputs (0major+214788minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 02:55:45 +0800
+0.08user 0.01system 0:00.11elapsed 91%CPU (0avgtext+0avgdata 19856maxresident)k
+584inputs+776outputs (16major+5539minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 02:55:45 +0800
+1.48user 0.61system 0:02.25elapsed 92%CPU (0avgtext+0avgdata 127948maxresident)k
+53040inputs+2400outputs (395major+155358minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:06:28 +0800
+0.09user 0.01system 0:00.10elapsed 98%CPU (0avgtext+0avgdata 19768maxresident)k
+0inputs+784outputs (1major+5516minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:06:28 +0800
+1.24user 0.28system 0:01.56elapsed 98%CPU (0avgtext+0avgdata 128444maxresident)k
+808inputs+1328outputs (13major+68295minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:07:54 +0800
+0.09user 0.01system 0:00.11elapsed 96%CPU (0avgtext+0avgdata 19884maxresident)k
+0inputs+784outputs (0major+5551minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:07:54 +0800
+4.21user 0.72system 0:04.96elapsed 99%CPU (0avgtext+0avgdata 128504maxresident)k
+352inputs+1632outputs (6major+214999minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:09:16 +0800
+0.08user 0.02system 0:00.10elapsed 99%CPU (0avgtext+0avgdata 19868maxresident)k
+0inputs+784outputs (0major+5537minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:09:16 +0800
+0.75user 0.21system 0:01.00elapsed 96%CPU (0avgtext+0avgdata 128500maxresident)k
+48inputs+1344outputs (0major+55939minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:14:11 +0800
+0.08user 0.00system 0:00.09elapsed 98%CPU (0avgtext+0avgdata 19844maxresident)k
+0inputs+784outputs (0major+5526minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:14:11 +0800
+0.71user 0.17system 0:00.91elapsed 95%CPU (0avgtext+0avgdata 128508maxresident)k
+192inputs+1312outputs (0major+49698minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:17:13 +0800
+0.08user 0.01system 0:00.10elapsed 94%CPU (0avgtext+0avgdata 19800maxresident)k
+0inputs+784outputs (0major+5540minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:17:14 +0800
+0.80user 0.22system 0:01.05elapsed 97%CPU (0avgtext+0avgdata 128480maxresident)k
+56inputs+1312outputs (0major+49727minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:40:29 +0800
+0.07user 0.03system 0:00.10elapsed 99%CPU (0avgtext+0avgdata 19776maxresident)k
+112inputs+784outputs (6major+5522minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:40:29 +0800
+0.70user 0.29system 0:01.61elapsed 61%CPU (0avgtext+0avgdata 127920maxresident)k
+224688inputs+1312outputs (1291major+49006minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:41:17 +0800
+0.08user 0.01system 0:00.10elapsed 98%CPU (0avgtext+0avgdata 19800maxresident)k
+0inputs+784outputs (0major+5506minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:41:17 +0800
+0.78user 0.16system 0:00.97elapsed 97%CPU (0avgtext+0avgdata 128296maxresident)k
+384inputs+1312outputs (0major+49733minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:42:08 +0800
+0.02user 0.00system 0:00.02elapsed 95%CPU (0avgtext+0avgdata 3336maxresident)k
+0inputs+0outputs (0major+233minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:42:13 +0800
+0.02user 0.00system 0:00.02elapsed 90%CPU (0avgtext+0avgdata 3340maxresident)k
+0inputs+0outputs (0major+235minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:42:17 +0800
+0.10user 0.03system 0:00.14elapsed 97%CPU (0avgtext+0avgdata 68904maxresident)k
+0inputs+448outputs (0major+12681minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:42:34 +0800
+0.09user 0.04system 0:00.13elapsed 97%CPU (0avgtext+0avgdata 19964maxresident)k
+0inputs+776outputs (1major+5550minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:42:35 +0800
+1.86user 0.70system 0:02.77elapsed 92%CPU (0avgtext+0avgdata 128432maxresident)k
+11888inputs+2424outputs (80major+168011minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:44:30 +0800
+Command exited with non-zero status 1
+0.07user 0.02system 0:00.10elapsed 97%CPU (0avgtext+0avgdata 19952maxresident)k
+0inputs+744outputs (0major+5565minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:44:38 +0800
+0.07user 0.01system 0:00.09elapsed 90%CPU (0avgtext+0avgdata 19920maxresident)k
+0inputs+784outputs (0major+5550minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:44:38 +0800
+1.43user 0.33system 0:01.78elapsed 98%CPU (0avgtext+0avgdata 128472maxresident)k
+56inputs+1360outputs (0major+68347minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:46:57 +0800
+0.02user 0.00system 0:00.02elapsed 95%CPU (0avgtext+0avgdata 3340maxresident)k
+0inputs+0outputs (0major+235minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:47:01 +0800
+0.07user 0.01system 0:00.09elapsed 96%CPU (0avgtext+0avgdata 19892maxresident)k
+0inputs+776outputs (0major+5548minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:47:02 +0800
+1.71user 0.64system 0:02.43elapsed 97%CPU (0avgtext+0avgdata 128372maxresident)k
+400inputs+2424outputs (1major+168022minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:47:55 +0800
+0.08user 0.01system 0:00.10elapsed 96%CPU (0avgtext+0avgdata 19920maxresident)k
+0inputs+776outputs (0major+5544minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:47:55 +0800
+1.82user 0.68system 0:02.59elapsed 96%CPU (0avgtext+0avgdata 128516maxresident)k
+392inputs+2424outputs (0major+167980minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:52:41 +0800
+0.07user 0.01system 0:00.09elapsed 98%CPU (0avgtext+0avgdata 19964maxresident)k
+0inputs+784outputs (0major+5569minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:52:42 +0800
+1.27user 0.26system 0:01.58elapsed 97%CPU (0avgtext+0avgdata 128480maxresident)k
+48inputs+1328outputs (0major+68281minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:55:21 +0800
+Command exited with non-zero status 1
+0.05user 0.00system 0:00.06elapsed 93%CPU (0avgtext+0avgdata 16468maxresident)k
+0inputs+0outputs (0major+4898minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:56:00 +0800
+0.07user 0.03system 0:00.12elapsed 88%CPU (0avgtext+0avgdata 19956maxresident)k
+0inputs+784outputs (0major+5551minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:56:00 +0800
+4.22user 0.75system 0:05.11elapsed 97%CPU (0avgtext+0avgdata 128496maxresident)k
+440inputs+1632outputs (6major+215067minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:58:02 +0800
+0.06user 0.02system 0:00.08elapsed 98%CPU (0avgtext+0avgdata 19972maxresident)k
+0inputs+784outputs (0major+5572minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:58:02 +0800
+4.52user 0.70system 0:05.30elapsed 98%CPU (0avgtext+0avgdata 128528maxresident)k
+56inputs+1624outputs (0major+214900minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 03:58:52 +0800
+0.09user 0.00system 0:00.10elapsed 99%CPU (0avgtext+0avgdata 19948maxresident)k
+0inputs+784outputs (0major+5551minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 03:58:52 +0800
+1.05user 0.27system 0:01.36elapsed 97%CPU (0avgtext+0avgdata 128444maxresident)k
+80inputs+1328outputs (0major+68323minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:00:20 +0800
+0.07user 0.01system 0:00.09elapsed 95%CPU (0avgtext+0avgdata 19964maxresident)k
+0inputs+784outputs (0major+5552minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:00:20 +0800
+1.17user 0.23system 0:01.45elapsed 97%CPU (0avgtext+0avgdata 128572maxresident)k
+96inputs+1360outputs (0major+68298minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:00:57 +0800
+0.07user 0.02system 0:00.10elapsed 97%CPU (0avgtext+0avgdata 19936maxresident)k
+0inputs+784outputs (0major+5558minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:00:57 +0800
+1.09user 0.25system 0:01.36elapsed 99%CPU (0avgtext+0avgdata 128480maxresident)k
+8inputs+1360outputs (0major+68320minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:02:20 +0800
+0.07user 0.02system 0:00.10elapsed 97%CPU (0avgtext+0avgdata 19980maxresident)k
+0inputs+784outputs (0major+5562minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:02:21 +0800
+4.09user 0.61system 0:04.78elapsed 98%CPU (0avgtext+0avgdata 128464maxresident)k
+48inputs+1608outputs (0major+214769minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:06:41 +0800
+0.06user 0.03system 0:00.10elapsed 98%CPU (0avgtext+0avgdata 19836maxresident)k
+0inputs+784outputs (0major+5551minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:06:41 +0800
+1.33user 0.29system 0:01.68elapsed 97%CPU (0avgtext+0avgdata 128488maxresident)k
+64inputs+1384outputs (0major+74465minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:11:43 +0800
+0.07user 0.01system 0:00.09elapsed 98%CPU (0avgtext+0avgdata 19940maxresident)k
+0inputs+784outputs (0major+5568minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:11:43 +0800
+1.09user 0.22system 0:01.35elapsed 97%CPU (0avgtext+0avgdata 128508maxresident)k
+32inputs+1360outputs (0major+68348minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:12:29 +0800
+0.06user 0.02system 0:00.08elapsed 100%CPU (0avgtext+0avgdata 19984maxresident)k
+0inputs+784outputs (0major+5561minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:12:29 +0800
+3.98user 0.69system 0:04.72elapsed 98%CPU (0avgtext+0avgdata 128520maxresident)k
+64inputs+1608outputs (0major+214678minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:13:45 +0800
+0.08user 0.01system 0:00.10elapsed 99%CPU (0avgtext+0avgdata 19888maxresident)k
+0inputs+784outputs (0major+5565minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:13:45 +0800
+4.11user 0.57system 0:04.71elapsed 99%CPU (0avgtext+0avgdata 128476maxresident)k
+16inputs+1624outputs (0major+214687minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:17:51 +0800
+0.08user 0.01system 0:00.10elapsed 92%CPU (0avgtext+0avgdata 19976maxresident)k
+0inputs+784outputs (0major+5550minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:17:51 +0800
+4.15user 0.69system 0:04.91elapsed 98%CPU (0avgtext+0avgdata 128480maxresident)k
+40inputs+1624outputs (0major+214759minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:18:32 +0800
+0.07user 0.02system 0:00.10elapsed 96%CPU (0avgtext+0avgdata 19896maxresident)k
+0inputs+784outputs (0major+5555minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:18:32 +0800
+4.06user 0.74system 0:04.91elapsed 97%CPU (0avgtext+0avgdata 128532maxresident)k
+48inputs+1624outputs (0major+214972minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:19:03 +0800
+0.08user 0.02system 0:00.10elapsed 98%CPU (0avgtext+0avgdata 20000maxresident)k
+0inputs+784outputs (0major+5564minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:19:03 +0800
+4.17user 0.71system 0:04.97elapsed 98%CPU (0avgtext+0avgdata 128448maxresident)k
+32inputs+1624outputs (0major+214920minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:48:07 +0800
+Command exited with non-zero status 1
+0.07user 0.01system 0:00.09elapsed 93%CPU (0avgtext+0avgdata 20068maxresident)k
+0inputs+744outputs (0major+5611minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:48:32 +0800
+0.08user 0.01system 0:00.10elapsed 98%CPU (0avgtext+0avgdata 19968maxresident)k
+0inputs+784outputs (0major+5553minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:48:32 +0800
+1.33user 0.27system 0:01.65elapsed 97%CPU (0avgtext+0avgdata 128540maxresident)k
+40inputs+1360outputs (0major+68333minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:51:11 +0800
+0.08user 0.01system 0:00.10elapsed 99%CPU (0avgtext+0avgdata 19892maxresident)k
+0inputs+784outputs (0major+5548minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:51:11 +0800
+1.22user 0.25system 0:01.50elapsed 98%CPU (0avgtext+0avgdata 128528maxresident)k
+0inputs+1360outputs (0major+68273minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:52:27 +0800
+0.08user 0.02system 0:00.11elapsed 94%CPU (0avgtext+0avgdata 20032maxresident)k
+0inputs+784outputs (0major+5569minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:52:28 +0800
+4.02user 0.70system 0:04.79elapsed 98%CPU (0avgtext+0avgdata 128536maxresident)k
+56inputs+1608outputs (0major+214726minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:57:54 +0800
+Command exited with non-zero status 1
+0.03user 0.03system 0:00.07elapsed 94%CPU (0avgtext+0avgdata 19468maxresident)k
+0inputs+0outputs (0major+5464minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 04:58:28 +0800
+0.07user 0.02system 0:00.10elapsed 98%CPU (0avgtext+0avgdata 19996maxresident)k
+0inputs+784outputs (0major+5575minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 04:58:28 +0800
+4.06user 0.64system 0:04.75elapsed 98%CPU (0avgtext+0avgdata 128492maxresident)k
+24inputs+1608outputs (0major+214929minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 13:23:38 +0800
+0.07user 0.01system 0:00.09elapsed 96%CPU (0avgtext+0avgdata 20012maxresident)k
+160inputs+784outputs (7major+5573minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 13:23:38 +0800
+4.72user 0.87system 0:06.30elapsed 88%CPU (0avgtext+0avgdata 127848maxresident)k
+226768inputs+1624outputs (1309major+214254minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 13:24:22 +0800
+0.08user 0.02system 0:00.10elapsed 99%CPU (0avgtext+0avgdata 19976maxresident)k
+0inputs+784outputs (0major+5575minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 13:24:22 +0800
+1.19user 0.26system 0:01.54elapsed 94%CPU (0avgtext+0avgdata 128412maxresident)k
+400inputs+1384outputs (0major+74579minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 13:30:14 +0800
+0.07user 0.02system 0:00.10elapsed 95%CPU (0avgtext+0avgdata 20116maxresident)k
+0inputs+784outputs (0major+5595minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 13:30:14 +0800
+3.95user 0.71system 0:04.79elapsed 97%CPU (0avgtext+0avgdata 128420maxresident)k
+408inputs+1608outputs (0major+214799minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 13:35:32 +0800
+0.06user 0.02system 0:00.08elapsed 94%CPU (0avgtext+0avgdata 20072maxresident)k
+0inputs+784outputs (0major+5591minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 13:35:32 +0800
+4.72user 0.76system 0:05.59elapsed 98%CPU (0avgtext+0avgdata 128332maxresident)k
+120inputs+1632outputs (0major+215054minor)pagefaults 0swaps
+
+[verilator] Generating C++ files...
+Sat, 22 Jul 2023 13:36:32 +0800
+0.07user 0.02system 0:00.10elapsed 97%CPU (0avgtext+0avgdata 20056maxresident)k
+0inputs+784outputs (0major+5586minor)pagefaults 0swaps
+
+[g++] Compiling C++ files...
+Sat, 22 Jul 2023 13:36:32 +0800
+1.10user 0.26system 0:01.42elapsed 95%CPU (0avgtext+0avgdata 128412maxresident)k
+152inputs+1360outputs (2major+68404minor)pagefaults 0swaps
